@@ -1,0 +1,10 @@
+{
+  "name": "js-design-patterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NazmiAltun/js-design-patterns",
+  "author": "Nazmi Altun <nazmialtun@windowslive.com>",
+  "license": "MIT",
+  "type": "module",
+  "private": false
+}
